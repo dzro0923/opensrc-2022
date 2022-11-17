@@ -1,2 +1,3 @@
 
-# Makefile을 위한 레퍼지토리
+## Makefile을 위한 폴더
+---
